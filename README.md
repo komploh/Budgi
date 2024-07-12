@@ -1,2 +1,3 @@
 # Asteris
-Fun Game build on internetcomputer
+
+test game app on icp
