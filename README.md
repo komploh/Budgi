@@ -1,3 +1,5 @@
 # Asteris
+coming soon....
 
-test game app on icp
+
+build on icp
